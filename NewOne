@@ -4,8 +4,7 @@ public static void main(String[] arg)
 {
 System.out.println("it is first progarm");
 System.out.println("it ");
-System.out.println("12");
-System.out.println("13m");
+
 
 }
 }
