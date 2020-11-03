@@ -5,6 +5,8 @@ public static void main(String[] arg)
 System.out.println("it is first progarm");
 System.out.println("it ");
 System.out.println("it ");
+System.out.println("it ");System.out.println("it ");
+
 
 
 }
