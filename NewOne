@@ -3,19 +3,9 @@ public class NewOne
 public static void main(String[] arg)
 {
 System.out.println("it is first progarm");
-System.out.println("it is second progarm");
-System.out.println("it is third progarm");
-System.out.println("it is fourth progarm");
-System.out.println("it is fourth progarm");
-System.out.println("it is fourth progarm");
-System.out.println("it is fourth progarm");
-System.out.println("it is  progarm");
-System.out.println("it is progarm");
-System.out.println("it is ");
 System.out.println("it ");
 System.out.println("12");
 System.out.println("13m");
-
 
 }
 }
